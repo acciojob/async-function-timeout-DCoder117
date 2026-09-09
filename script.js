@@ -1,4 +1,4 @@
-//your JS code here. If required.
+```js
 const text = document.getElementById("text");
 const delay = document.getElementById("delay");
 const btn = document.getElementById("btn");
@@ -20,3 +20,4 @@ async function displayMessage() {
 }
 
 btn.addEventListener("click", displayMessage);
+```
